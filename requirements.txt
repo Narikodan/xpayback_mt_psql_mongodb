@@ -1,0 +1,8 @@
+fastapi
+motor
+uvicorn
+pydantic
+asyncpg
+sqlalchemy
+databases
+psycopg2-binary
